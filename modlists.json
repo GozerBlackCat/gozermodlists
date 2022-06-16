@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Fallout 4 Modding Essentials",
+    "description": "A blank slate list, featuring QoL, fixes, and prerequisites for popular mods.",
+    "author": "Gozer",
+    "maintainers": [
+      "github/GozerBlackCat"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Performance",
+      "Near Vanilla"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/FO4ME.png",
+      "readme": "https://github.com/GozerBlackCat/FO4ME#readme",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "<your discord link here>"
+    },
+    "download_metadata": {
+  "$type": "DownloadMetadata, Wabbajack.Lib",
+  "Hash": "xeCyF06MWig=",
+  "Size": 9832797,
+  "NumberOfArchives": 85,
+  "SizeOfArchives": 567041560,
+  "NumberOfInstalledFiles": 3429,
+  "SizeOfInstalledFiles": 1522543872
+}
+    },
+    "version": "1.0"
+  }
+]
