@@ -20,8 +20,8 @@
       "image": "https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/FO4ME.png",
       "readme": "https://github.com/GozerBlackCat/FO4ME#readme",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
+      "machineURL": "gozermodlists/FO4ME",
+      "discordURL": "https://discord.gg/W9czPm9M"
     },
     "download_metadata": {
   "$type": "DownloadMetadata, Wabbajack.Lib",
@@ -33,6 +33,6 @@
   "SizeOfInstalledFiles": 1522543872
 }
     },
-    "version": "1.0"
+    "version": "1.0.3"
   }
 ]
