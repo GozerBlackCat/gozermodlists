@@ -10,30 +10,29 @@
     "game": "fallout4",
     "tags": [
       "Performance",
-      "Near Vanilla"
+      "Near Vanilla",
+      "Vanilla Plus"
     ],
     "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/FO4ME.png",
-      "readme": "https://github.com/GozerBlackCat/FO4ME#readme",
+      "image": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/instructionalpics/FO4ME.png",
+      "readme": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/README.md",
       "download": "https://authored-files.wabbajack.org/FO4ME%20.wabbajack_31542662-20ab-4bed-aadd-9ed02f53c439",
       "machineURL": "gozermodlists/FO4ME",
       "discordURL": "https://discord.gg/W9czPm9M"
     },
     "download_metadata": {
-  "$type": "DownloadMetadata, Wabbajack.Lib",
-  "Hash": "jcVqSr10NEU=",
-  "Size": 9833772,
-  "NumberOfArchives": 85,
-  "SizeOfArchives": 567041560,
-  "NumberOfInstalledFiles": 3429,
-  "SizeOfInstalledFiles": 1522546082
-}
-}
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "jcVqSr10NEU=",
+      "Size": 9833772,
+      "NumberOfArchives": 85,
+      "SizeOfArchives": 567041560,
+      "NumberOfInstalledFiles": 3429,
+      "SizeOfInstalledFiles": 1522546082
     },
     "version": "1.0.3"
-   }
+  }
 ]
