@@ -19,7 +19,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/instructionalpics/FO4ME.webp",
-      "readme": "https://github.com/GozerBlackCat/FO4ME/blob/main/README.md",
+      "readme": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/README.md",
       "download": "https://authored-files.wabbajack.org/FO4ME%20.wabbajack_31542662-20ab-4bed-aadd-9ed02f53c439",
       "machineURL": "FO4ME",
       "discordURL": "https://discord.gg/W9czPm9M"
