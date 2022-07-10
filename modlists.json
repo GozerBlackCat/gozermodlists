@@ -22,20 +22,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/instructionalpics/FO4ME.webp",
       "readme": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FO4ME .wabbajack_faf40453-de94-4aeb-8897-f3a7f99facff",
+      "download": "https://authored-files.wabbajack.org/FO4ME .wabbajack_6f3bf944-cc3f-4d0e-bc3c-9109523d0b3b",
       "machineURL": "FO4ME",
       "discordURL": "https://discord.gg/W9czPm9M"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "9qxezKXtIfA=",
-      "Size": 9963885,
-      "NumberOfArchives": 86,
-      "SizeOfArchives": 570820700,
-      "NumberOfInstalledFiles": 3427,
-      "SizeOfInstalledFiles": 1527394186
+      "Hash": "wgNvBWK4YGg=",
+      "Size": 10726003,
+      "NumberOfArchives": 87,
+      "SizeOfArchives": 600700889,
+      "NumberOfInstalledFiles": 3428,
+      "SizeOfInstalledFiles": 1527826144
     },
-    "version": "1.0.6",
+    "version": "1.0.7",
     "RepositoryName": ""
   }
 ]
