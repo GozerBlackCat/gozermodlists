@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Fallout 4 Modding Essentials",
-    "description": "A blank slate list, featuring QoL, fixes, and prerequisites for popular mods.",
+    "description": "A blank slate list, featuring QoL, fixes, and prerequisites for popular mods. Should provide a jumping off point for anyone to create their own Fallout 4 mod list.",
     "author": "Gozer",
     "maintainers": [
       "github/GozerBlackCat"
