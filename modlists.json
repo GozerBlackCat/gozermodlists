@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Fallout 4 Modding Essentials",
     "description": "A blank slate list, featuring QoL, fixes, and prerequisites for popular mods. Should provide a jumping off point for anyone to create their own Fallout 4 mod list.",
     "author": "Gozer",
@@ -20,23 +19,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/instructionalpics/FO4ME.webp",
       "readme": "https://raw.githubusercontent.com/GozerBlackCat/FO4ME/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FO4ME .wabbajack_9c206ff1-433d-46c3-b13d-5e1c65953b3d",
+      "download": "https://authored-files.wabbajack.org/FO4ME.wabbajack_cdb8b7f2-a84b-47d7-983f-62babde253fd",
       "machineURL": "FO4ME",
       "discordURL": "https://discord.gg/wjVT4zuvXt"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "VQY69yf7nu8=",
-      "Size": 9972825,
-      "NumberOfArchives": 90,
-      "SizeOfArchives": 572387540,
-      "NumberOfInstalledFiles": 3462,
-      "SizeOfInstalledFiles": 1528790606
+      "Hash": "NwWszryoORA=",
+      "Size": 9949413,
+      "NumberOfArchives": 89,
+      "SizeOfArchives": 571302869,
+      "NumberOfInstalledFiles": 3379,
+      "SizeOfInstalledFiles": 1528777787
     },
-    "version": "1.0.14",
-    "RepositoryName": ""
+    "version": "1.0.15",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-09-19T22:31:04.1937668Z",
+    "repositoryName": ""
   }
 ]
